@@ -1,0 +1,19 @@
+body{
+    color:red;
+}
+/* these h1 and h2 are selectors */
+h1{
+    color: blue;
+}
+
+h2{
+    color: yellowgreen;
+}
+
+#lib-header{
+    color: gray;
+}
+
+.para{
+    color: pink;
+}
